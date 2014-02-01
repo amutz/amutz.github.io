@@ -1,0 +1,3 @@
+[submodule ".themes/greyjoy"]
+	path = .themes/greyjoy
+	url = git://github.com/rezajatnika/greyjoy.git
